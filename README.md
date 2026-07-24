@@ -1,21 +1,21 @@
-# 🚀 Kasa
+# Kasa
 
 > A roommate matching and rental platform focused on compatibility, affordability, and smarter shared living.
 
 ---
 
-## 📌 Overview
+## Overview
 
 **Kasa** is a web platform that helps users find:
 
-- 🤝 Compatible roommates (shared living)
-- 🏠 Affordable solo rental spaces (rooms, condos, apartments)
+- Compatible roommates (shared living)
+- Affordable solo rental spaces (rooms, condos, apartments)
 
 It combines a **matching system (like Bumble)** with a **rental listing platform**, creating a better experience than traditional housing solutions.
 
 ---
 
-## 🎯 Problem
+## Problem
 
 Finding a place to live—or someone to live with—is still inefficient:
 
@@ -26,11 +26,11 @@ Finding a place to live—or someone to live with—is still inefficient:
 
 ---
 
-## 💡 Solution
+## Solution
 
 Kasa introduces a **dual-mode system**:
 
-### 🤝 Shared Living Mode (Core Feature)
+### Shared Living Mode (Core Feature)
 
 - Swipe-based matching system
 - Connects listers and seekers
@@ -41,7 +41,7 @@ Kasa introduces a **dual-mode system**:
 
 ---
 
-### 🏠 Solo Living Mode
+### Solo Living Mode
 
 - Simple rental browsing experience
 - Find rooms, condos, or apartments
@@ -49,7 +49,7 @@ Kasa introduces a **dual-mode system**:
 
 ---
 
-## 👥 Target Users
+## Target Users
 
 - Students
 - Young professionals
@@ -57,9 +57,9 @@ Kasa introduces a **dual-mode system**:
 
 ---
 
-## 🔥 MVP Features
+## MVP Features
 
-### 👤 User Profiles
+### User Profiles
 
 - Name
 - Age range
@@ -69,7 +69,7 @@ Kasa introduces a **dual-mode system**:
 
 ---
 
-### 🏘️ Listings
+### Listings
 
 - Title, photos, price
 - Location (general area)
@@ -81,7 +81,7 @@ Kasa introduces a **dual-mode system**:
 
 ---
 
-### 💘 Matching System (Shared Mode)
+### Matching System (Shared Mode)
 
 - Swipe (like/pass)
 - Match when criteria align
@@ -95,7 +95,7 @@ Kasa introduces a **dual-mode system**:
 
 ---
 
-### 💬 Chat System
+### Chat System
 
 - Real-time messaging
 - Triggered after:
@@ -104,14 +104,14 @@ Kasa introduces a **dual-mode system**:
 
 ---
 
-### 🛡️ Safety (MVP)
+### Safety (MVP)
 
 - Report user
 - Block user
 
 ---
 
-## 🧭 User Flow
+## User Flow
 
 ### Entry Point
 
@@ -140,7 +140,7 @@ User selects:
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -210,7 +210,7 @@ php artisan reverb:start
 
 ---
 
-## ⚙️ Environment Requirements
+## Environment Requirements
 
 - PHP 8.2+
 - Node.js 18+
@@ -220,7 +220,7 @@ php artisan reverb:start
 
 ---
 
-## 🚀 Roadmap
+## Roadmap
 
 ### Phase 1 (MVP)
 
@@ -243,23 +243,11 @@ php artisan reverb:start
 
 ---
 
-## ⚠️ Known Challenges
+## Known Challenges
 
 - Cold start problem (low initial users)
 - Trust & safety (verification needed)
 - Matching accuracy
-
----
-
-## 🤝 Contributing
-
-We are currently a private team of 4 developers.
-
-If contributing in the future:
-
-- Create a feature branch
-- Submit a merge request
-- Follow coding standards
 
 ---
 
